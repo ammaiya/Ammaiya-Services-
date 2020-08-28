@@ -5,7 +5,7 @@ Magento is a profoundly advanced e-commerce web portal and application developme
 
 2.Magento Customization
 
-3. PSD to Magento Conversion
+3.PSD to Magento Conversion
 
 4.Shopping Cart Development
 
@@ -17,7 +17,7 @@ Magento is a profoundly advanced e-commerce web portal and application developme
 
 8.Template Development
 
-9. Magento Extension / Module Development
+9.Magento Extension / Module Development
 
 10.Speed Optimization
 
